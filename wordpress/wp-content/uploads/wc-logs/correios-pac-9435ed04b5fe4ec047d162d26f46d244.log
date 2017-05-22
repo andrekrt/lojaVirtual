@@ -1,0 +1,277 @@
+04-23-2017 @ 15:03:39 - Weight and cubage of the order: Array
+(
+    [weight] => 0,005
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-23-2017 @ 15:03:39 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65040101&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,005&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=950&sCdAvisoRecebimento=N&StrRetorno=xml
+04-23-2017 @ 15:03:40 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 31,20
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 13,50
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-24-2017 @ 13:03:22 - Weight and cubage of the order: Array
+(
+    [weight] => 0,005
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-24-2017 @ 13:03:22 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65040101&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,005&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=950&sCdAvisoRecebimento=N&StrRetorno=xml
+04-24-2017 @ 13:03:22 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-24-2017 @ 13:15:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0,015
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-24-2017 @ 13:15:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65040101&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,015&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=2200&sCdAvisoRecebimento=N&StrRetorno=xml
+04-24-2017 @ 13:15:10 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-24-2017 @ 21:21:28 - Weight and cubage of the order: Array
+(
+    [weight] => 0,01
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-24-2017 @ 21:21:29 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,01&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1900&sCdAvisoRecebimento=N&StrRetorno=xml
+04-24-2017 @ 21:21:29 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 45,45
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 27,75
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-25-2017 @ 18:53:15 - Weight and cubage of the order: Array
+(
+    [weight] => 0,015
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-25-2017 @ 18:53:15 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,015&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=2850&sCdAvisoRecebimento=N&StrRetorno=xml
+04-25-2017 @ 18:53:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 59,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 42,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-25-2017 @ 18:59:19 - Weight and cubage of the order: Array
+(
+    [weight] => 0,015
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-25-2017 @ 18:59:19 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,015&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=2850&sCdAvisoRecebimento=N&StrRetorno=xml
+04-25-2017 @ 18:59:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 59,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 42,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-26-2017 @ 16:16:47 - Weight and cubage of the order: Array
+(
+    [weight] => 0,01
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2017 @ 16:16:47 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65040101&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,01&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1250&sCdAvisoRecebimento=N&StrRetorno=xml
+04-26-2017 @ 16:16:47 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-26-2017 @ 16:23:55 - Weight and cubage of the order: Array
+(
+    [weight] => 0,01
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2017 @ 16:23:55 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,01&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1250&sCdAvisoRecebimento=N&StrRetorno=xml
+04-26-2017 @ 16:23:56 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-26-2017 @ 16:33:46 - Weight and cubage of the order: Array
+(
+    [weight] => 0,02
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2017 @ 16:33:46 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,02&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=2500&sCdAvisoRecebimento=N&StrRetorno=xml
+04-26-2017 @ 16:33:46 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-26-2017 @ 16:33:54 - Weight and cubage of the order: Array
+(
+    [weight] => 0,01
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-26-2017 @ 16:33:54 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,01&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1250&sCdAvisoRecebimento=N&StrRetorno=xml
+04-26-2017 @ 16:33:54 - WP_Error: cURL error 6: Could not resolve host: ws.correios.com.br
+04-28-2017 @ 16:29:00 - Weight and cubage of the order: Array
+(
+    [weight] => 0,01
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-28-2017 @ 16:29:01 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,01&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=1250&sCdAvisoRecebimento=N&StrRetorno=xml
+04-28-2017 @ 16:29:02 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 35,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 18,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-28-2017 @ 16:29:12 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-28-2017 @ 16:29:12 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+04-28-2017 @ 16:29:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 17,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
+04-28-2017 @ 16:29:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0
+    [height] => 2
+    [width] => 11
+    [length] => 16
+)
+
+04-28-2017 @ 16:29:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106&nCdEmpresa&sDsSenha&sCepDestino=65070074&sCepOrigem=65700000&nVlAltura=2&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+04-28-2017 @ 16:29:43 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => SimpleXMLElement Object
+        (
+            [Codigo] => 41106
+            [Valor] => 17,70
+            [PrazoEntrega] => 5
+            [ValorSemAdicionais] => 17,70
+            [ValorMaoPropria] => 0,00
+            [ValorAvisoRecebimento] => 0,00
+            [ValorValorDeclarado] => 0,00
+            [EntregaDomiciliar] => S
+            [EntregaSabado] => N
+            [Erro] => 0
+            [MsgErro] => SimpleXMLElement Object
+                (
+                )
+
+        )
+
+)
+
